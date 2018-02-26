@@ -12,7 +12,7 @@
 
 ### I encounter a command that you don't know, what do I do?
 
-Go to https://explainshell.com/. This will explain the command and the options used.
+Go to [explainshell.com](https://explainshell.com/). This will explain the command and the options used.
 
 ### I forgot what options I need to pass to the command, what do I do?
 
