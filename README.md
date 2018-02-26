@@ -16,7 +16,7 @@ Go to [explainshell.com](https://explainshell.com/). This will explain the comma
 
 ### I forgot what options I need to pass to the command, what do I do?
 
-You can use tools like [eg](https://github.com/srsudar/eg) which provide you with common examples of using different commands.
+You can use tools like [eg](https://github.com/srsudar/eg) which provide you with common examples of using different commands
 
 ## Useful resources
 
