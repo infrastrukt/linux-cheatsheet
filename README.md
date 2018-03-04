@@ -8,6 +8,8 @@
 * [pbcopy and pbpaste](docs/pbcopy-pbpaste.md)
 * [vim](docs/vim.md)
 * [git](docs/git.md)
+* [curl](docs/curl.md)
+
 
 ## Solving problems
 
