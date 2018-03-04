@@ -7,6 +7,7 @@
 * [mktemp](docs/mktemp.md)
 * [pbcopy and pbpaste](docs/pbcopy-pbpaste.md)
 * [vim](docs/vim.md)
+* [git](docs/git.md)
 
 ## Solving problems
 
