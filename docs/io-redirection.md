@@ -149,15 +149,11 @@ All output produced by commands in the script was redirected and saved to `file.
 
 See [more examples of using exec in bash scripts](https://likegeeks.com/shell-scripting-awesome-guide-part4/)
 
-### Useful resource
+### Useful resources
 
 [Bash redirection cheetsheat](http://www.catonmat.net/download/bash-redirections-cheat-sheet.pdf)
 [Redirection tutorial](http://wiki.bash-hackers.org/howto/redirection_tutorial)
 
-Also the following resources were used to create this document:
+Also, the following resources were used to create this document:
 * https://www.tldp.org/LDP/abs/html/io-redirection.html#FTN.AEN17894
 * https://robots.thoughtbot.com/input-output-redirection-in-the-shell
-
-
-
-
