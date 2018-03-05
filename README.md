@@ -9,6 +9,7 @@
 * [vim](docs/vim.md)
 * [git](docs/git.md)
 * [curl](docs/curl.md)
+* [Mounting filesystems](docs/mount.md)
 
 
 ## Solving problems
