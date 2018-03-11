@@ -12,6 +12,7 @@
 * [cron](docs/cron.md)
 * [Mounting filesystems](docs/mount.md)
 * [Logging sessions and 'su' command](docs/su.md)
+* [Types of shells](docs/shells.md)
 
 
 ## Solving problems
