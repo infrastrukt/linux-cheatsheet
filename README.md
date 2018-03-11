@@ -11,6 +11,7 @@
 * [curl](docs/curl.md)
 * [cron](docs/cron.md)
 * [Mounting filesystems](docs/mount.md)
+* [Logging sessions and 'su' command](docs/su.md)
 
 
 ## Solving problems
