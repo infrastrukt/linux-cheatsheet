@@ -14,6 +14,7 @@
 * [Logging sessions and 'su' command](docs/su.md)
 * [Types of shells](docs/shells.md)
 * [Comparing files and directories with diff](docs/diff.md)
+* [less](docs/less.md)
 
 
 ## Solving problems
