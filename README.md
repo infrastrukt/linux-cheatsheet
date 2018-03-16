@@ -15,6 +15,7 @@
 * [Types of shells](docs/shells.md)
 * [Comparing files and directories with diff](docs/diff.md)
 * [less](docs/less.md)
+* [lsof](docs/lsof.md)
 
 
 ## Solving problems
