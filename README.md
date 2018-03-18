@@ -16,6 +16,7 @@
 * [Comparing files and directories with diff](docs/diff.md)
 * [less](docs/less.md)
 * [lsof](docs/lsof.md)
+* [/proc directory](docs/proc-directory.md)
 
 
 ## Solving problems
