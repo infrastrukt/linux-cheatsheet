@@ -17,6 +17,7 @@
 * [less](docs/less.md)
 * [lsof](docs/lsof.md)
 * [/proc directory](docs/proc-directory.md)
+* [ps](docs/ps.md)
 
 
 ## Solving problems
