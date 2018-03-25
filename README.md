@@ -18,6 +18,7 @@
 * [lsof](docs/lsof.md)
 * [/proc directory](docs/proc-directory.md)
 * [ps](docs/ps.md)
+* [File timestamps](docs/file-timestamps.md)
 
 
 ## Solving problems
