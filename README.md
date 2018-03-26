@@ -19,6 +19,7 @@
 * [/proc directory](docs/proc-directory.md)
 * [ps](docs/ps.md)
 * [File timestamps](docs/file-timestamps.md)
+* [find](docs/find.md)
 
 
 ## Solving problems
