@@ -20,6 +20,7 @@
 * [ps](docs/ps.md)
 * [File timestamps](docs/file-timestamps.md)
 * [find](docs/find.md)
+* [du](docs/du.md)
 
 
 ## Solving problems
