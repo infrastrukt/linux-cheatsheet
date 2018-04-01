@@ -34,6 +34,10 @@ Go to [explainshell.com](https://explainshell.com/). This will explain the comma
 
 You can use tools like [eg](https://github.com/srsudar/eg) which provide you with common examples of using different commands
 
+## Awesome things
+
+Check out a [list of of awesome things](docs/awesome-things.md) to make your Linux experience easier and more fun.
+
 ## Useful resources
 
 * Learn about advanced Bash one-liners [here](http://www.bashoneliners.com/)
