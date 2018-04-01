@@ -21,6 +21,7 @@
 * [File timestamps](docs/file-timestamps.md)
 * [find](docs/find.md)
 * [du](docs/du.md)
+* [ls](docs/ls.md)
 
 
 ## Solving problems
