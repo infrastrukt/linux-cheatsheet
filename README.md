@@ -40,6 +40,10 @@ You can use tools like [eg](https://github.com/srsudar/eg) which provide you wit
 
 Check out a [list of of awesome things](docs/awesome-things.md) to make your Linux experience easier and more fun.
 
+## List of terms
+
+There is a list of some of the [terms](docs/terms.md).
+
 ## Useful resources
 
 * Learn about advanced Bash one-liners [here](http://www.bashoneliners.com/)
