@@ -24,6 +24,7 @@
 * [ls](docs/ls.md)
 * [How files are stored in the filesystem? Inodes.](docs/inode.md)
 * [Linux links](docs/links.md)
+* [xargs](docs/xargs.md)
 
 
 ## Solving problems
