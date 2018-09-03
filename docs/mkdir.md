@@ -2,13 +2,7 @@
 
 ### Create a directory
 
-`mkdir dirname` - create a directory `dirname` in you current directory.
 
----
-
-`mkdir /home/dirname` - create directory under specified path.
-
----
 
 `mkdir -p /home/dir1/dir2` - create a directory `dir2` and also create any parent directories, i.e. `/home` and `/home/dir1`, if they don't exist.
 
